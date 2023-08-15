@@ -1,1 +1,6 @@
 print("Hello world!")
+print("Sasa Dunia!")
+print("Hallo Welt!")
+print("Olá Mundo!")
+print("你好世界！")
+print("Hei Verden!")
